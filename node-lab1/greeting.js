@@ -1,6 +1,7 @@
 const greeting = {
     en: "Hello World!",
-    fr: "Bonjour!"
+    fr: "Bonjour!",
+    ch: "你好"
 };
 
 export default greeting;
